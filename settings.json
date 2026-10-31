@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "MuthMandalsmp.aternos.me:41646",
-    "port": 92591,
-    "version": "1.21.1"
+    "port": 41646,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
